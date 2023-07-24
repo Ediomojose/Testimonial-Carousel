@@ -157,7 +157,7 @@ img[alt="user__avatar"] {
 
   .testimonials {
     margin: 5rem auto;
-    max-width: 50%;
+    max-width: 60%;
   }
 
   img[alt="user__avatar"] {
@@ -170,7 +170,7 @@ img[alt="user__avatar"] {
   }
 }
 
-@media(width >= 1281px ){
+@media(width >= 1500px ){
   .testimonials {
     margin: 5rem auto;
     max-width: 30%;
