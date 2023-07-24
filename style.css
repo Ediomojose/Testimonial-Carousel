@@ -154,12 +154,11 @@ img[alt="user__avatar"] {
     body{
         font-size: 1.1rem;
     }
-  .testimonials {
-    padding: 2rem 20rem;
-    max-width: 70%;
-  }
 
-  
+  .testimonials {
+    margin: 5rem auto;
+    max-width: 60%;
+  }
 
   img[alt="user__avatar"] {
     width: 15%;
@@ -167,5 +166,6 @@ img[alt="user__avatar"] {
 
   .testimonial__block {
     padding: 6rem 3rem 3rem 3rem;
+    width: 100%;
   }
 }
