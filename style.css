@@ -169,3 +169,11 @@ img[alt="user__avatar"] {
     width: 100%;
   }
 }
+
+@media(width >= 1281px ){
+  .testimonials {
+    margin: 5rem auto;
+    max-width: 30%;
+  }
+
+}
